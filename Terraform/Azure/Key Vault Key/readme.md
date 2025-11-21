@@ -29,3 +29,7 @@ This template deploys an Azure Key Vault.
 ## Example
 
 To see how to run this example, see [Create an Azure key vault and a key by using Terraform](https://learn.microsoft.com/azure/key-vault/keys/quick-create-terraform).
+
+## Azure services
+
+![Architecture](images/architecture.png)
